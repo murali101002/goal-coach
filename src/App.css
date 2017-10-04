@@ -1,0 +1,8 @@
+.goal{
+    margin: 5px;
+}
+.cancelBtn{
+    color: red;
+    display: inline-block;
+    cursor: pointer;
+}
